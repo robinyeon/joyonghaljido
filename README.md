@@ -13,8 +13,11 @@
 - 개발 기간: 2022.10.07 ~ 2022.10.21
 - 주제: 소음 공해
 - 목표: 객관적 수치를 활용해 **서울시 소음공해 심각성 가시화** 및 **유저 간 실시간 소음 상황 공유의 장 제공**
+- 와이어프레임: [바로가기](https://www.figma.com/file/m4VqBI1b4S61yvxDkiIqlA?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
+- 피그마: [바로가기](https://www.figma.com/file/btoerqTuIEYfmXFYmkRDni/Untitled?node-id=0%3A1)
 - API 문서: [바로가기](https://docs.google.com/spreadsheets/d/1SAP_Yc2HSR3E3hdOgMTEE_jvnj4RDiVaQQbsuSi8bhg/edit#gid=0)
-- 테스트 페이지: [바로가기](http://kdt-ai5-team04.elicecoding.com/)
+- 시연 영상: [바로가기](https://youtu.be/CxRCw6PmpO4)
+- **테스트 페이지: [바로가기](http://kdt-ai5-team04.elicecoding.com/) **곧 폐쇄예정
 
 <br/>
 
@@ -28,7 +31,7 @@
 
 **연다은봄**
 
-- Back-End
+- Back-End, Team leader
 - robin.yeon@gmail.com
 - Github: [@robinyeon](https://github.com/robinyeon)
 
@@ -92,9 +95,9 @@
 
 ## 🗂 프로젝트 구조
 
-### [Front-End ](#)
+### [Front-End](https://github.com/robinyeon/joyonghaljido/tree/main/front#%EC%A1%B0%EC%9A%A9%ED%95%A0%EC%A7%80%EB%8F%84-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
 
-### [Back-End](#)
+### [Back-End](https://github.com/robinyeon/joyonghaljido/tree/main/back#%ED%8C%8C%EC%9D%BC-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EB%AA%85)
 
 <br />
 
@@ -121,7 +124,7 @@
 
 <br/>
 
-![구진입화면](https://user-images.githubusercontent.com/85475577/196633872-57b51adc-6878-4edb-8f9d-623e2f209ec4.png)
+![구진입화면](https://user-images.githubusercontent.com/85475577/197387580-7516287e-fc9b-4807-9af4-5d0538b49d9c.png)
 
 #### 궁금한 자치구를 클릭하면 해당 구의 지도를 확인할 수 있어요.
 
@@ -152,7 +155,7 @@
 
 **빠르고 간단하게 소음 리뷰를 작성**할 수 있도록 로그인이 필요하지 않은, **비밀번호**만을 이용한 익명 게시판을 만들어봤어요.
 
-![리뷰작성화면](https://user-images.githubusercontent.com/85475577/196635811-5353d253-6be8-4585-a609-dbeaf323b59f.png)
+![리뷰작성화면](https://user-images.githubusercontent.com/85475577/197387560-c3cdd37f-e886-43f2-b8ab-919fcbcb94f6.png)
 
 #### 소음 리뷰 작성
 
@@ -177,7 +180,7 @@
 1. 해당 프로젝트를 clone 합니다.
 
    ```
-   git clone https://kdt-gitlab.elice.io/ai_track/class05/data_project/team04.git
+   git clone https://github.com/robinyeon/joyonghaljido.git
    ```
 
 2. 프로젝트 실행에 필요한 패키지를 설치합니다.
