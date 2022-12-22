@@ -12,7 +12,7 @@
 - 기획 기간: 2022.10.03 ~ 2022.10.07
 - 개발 기간: 2022.10.07 ~ 2022.10.21
 - 주제: 소음 공해
-- 목표: 객관적 수치를 활용해 **서울시 소음공해 심각성 가시화** 및 **유저 간 실시간 소음 상황 공유의 장 제공**
+- 목표: [국가소음정보시스템](https://www.noiseinfo.or.kr/index.jsp)의 객관적 수치를 활용해 **서울시 소음공해 심각성 가시화** 및 **유저 간 실시간 소음 상황 공유의 장 제공**
 - 와이어프레임: [바로가기](https://www.figma.com/file/m4VqBI1b4S61yvxDkiIqlA?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
 - 피그마: [바로가기](https://www.figma.com/file/btoerqTuIEYfmXFYmkRDni/Untitled?node-id=0%3A1)
 - API 문서: [바로가기](https://docs.google.com/spreadsheets/d/1SAP_Yc2HSR3E3hdOgMTEE_jvnj4RDiVaQQbsuSi8bhg/edit#gid=0)
