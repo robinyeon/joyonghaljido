@@ -17,7 +17,6 @@
 - 피그마: [바로가기](https://www.figma.com/file/btoerqTuIEYfmXFYmkRDni/Untitled?node-id=0%3A1)
 - API 문서: [바로가기](https://docs.google.com/spreadsheets/d/1SAP_Yc2HSR3E3hdOgMTEE_jvnj4RDiVaQQbsuSi8bhg/edit#gid=0)
 - 시연 영상: [바로가기](https://youtu.be/CxRCw6PmpO4)
-- **테스트 페이지: [바로가기](http://kdt-ai5-team04.elicecoding.com/) **곧 폐쇄예정
 
 <br/>
 
